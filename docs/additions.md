@@ -96,12 +96,6 @@ The WSG team <u>will not</u> provide support for the following mods. Rather, the
 
 [Power Armor Explosive Resistance](https://www.nexusmods.com/newvegas/mods/83995) - Provides direct explosion resistance for power armor.
 
-[PSRO - Peripheral Scope Reticle Overhaul](https://www.nexusmods.com/newvegas/mods/71781) - A comprehensive overhaul of all vanilla scope reticles with pixel perfect alignments and a full clear view of surroundings.
-- Less performance intensive than [B42 Optics](https://www.nexusmods.com/newvegas/mods/81641), though still visually pleasing.
-- Compatible with all vanilla TTW scopes.
-- A mod compatibility patch for any mods that add new weapons to the game is also provided on the main mod page.
-- Pairs nicely with Nehred's [Scope Aim Tweaks](https://www.nexusmods.com/newvegas/mods/80701).
-
 [Realistic Ammo Name Replacer - RANR](https://www.nexusmods.com/newvegas/mods/86133?tab=description) - Changes all ballistic ammo names in NV and TTW to better emphasize realism. 
 - Compatible with [CaliberZL](https://www.nexusmods.com/newvegas/mods/85399), [Tactapack](https://www.nexusmods.com/newvegas/mods/80219), [Supplemental Ammo Crafting](https://www.nexusmods.com/newvegas/mods/76175), and [Supplemental Ammo Crafting Patch](https://www.nexusmods.com/newvegas/mods/85747/).
 
